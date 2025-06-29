@@ -3,7 +3,7 @@
 ## Contacts
 * location: Almaty, Kazakhstan
 * e-mail  : madina.kadyrovva@gmail.com
-* discord : Madi(@<a href="https://github.com/mjnslf">Elebaye</a>)
+* discord : Madi(@<a href="https://github.com/Elebaye">Elebaye</a>)
 
 ## About Me
 Some text
@@ -13,10 +13,14 @@ Some text
 * Unix/Shell
 * Git
 
+## Code example
+```print(hello, world!)```
+
+
 ## Practical Experience
 ##### **projects
-* project 1
-* project 2
+* <a href="https://github.com/Elebaye">project 1</a>
+* <a href="https://github.com/Elebaye">project 2</a>
 
 
 ## Education
